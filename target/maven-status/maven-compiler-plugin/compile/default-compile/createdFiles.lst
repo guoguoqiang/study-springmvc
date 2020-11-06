@@ -1,0 +1,13 @@
+org\spring\study\springmvc\annotation\ResponseBody.class
+org\spring\study\service\UserService.class
+org\spring\study\springmvc\annotation\AutoWired.class
+org\spring\study\springmvc\xml\XmlPaser.class
+org\spring\study\springmvc\context\WebApplicationContext.class
+org\spring\study\springmvc\servlet\DispatcherServlet.class
+org\spring\study\service\impl\UserServiceImpl.class
+org\spring\study\springmvc\handler\MyHandler.class
+org\spring\study\model\User.class
+org\spring\study\springmvc\annotation\Service.class
+org\spring\study\controller\UserController.class
+org\spring\study\springmvc\annotation\RequestMapping.class
+org\spring\study\springmvc\annotation\Controller.class
